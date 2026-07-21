@@ -1,20 +1,25 @@
 **EXPERIMENT NO: 01**
 
+
 **STUDY OF MICROWAVE COMPONENTS AND INSTRUMENTS**
+
 
 **Aim:**
 
 To become familiar with microwave components and instruments available in the laboratory. 
 
+
 **Apparatus Used:**
 
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer. 
+
 
 **Theory:-**
 
 **Components/Devices:**
 
 Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane Tee, Directional coupler, Matched termination, PIN modulator, Crystal detector, Reflex klystron tube, Gunn diode, different types of antennas available. 
+
 
 **LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED:**
 
@@ -33,9 +38,11 @@ Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane T
 13. Matched Termination 
 14. Waveguide to coaxial adapter
 
+
 **INTRODUCTION:** 
 
 A microwave test bench is an assembly of various microwave components, held together  by Nuts& Bolts. It consists of a microwave source (Oscillator) at one end. The waves generated  are led down by a wave guide through various components, so that the student can observe the propagation of waves, and their interaction and/or processing by various components. 
+
 
 **1. Klystron Power Supply:**
 
@@ -109,6 +116,7 @@ The slotted line represented the basic instrument of microwave measurements. Wit
 The crystal detector (Detector mount) can be used for the detection of microwave signal. RF choke is built into the crystalmounting to reduce leakage from BNC connector. Square law characteristics may be used with a high gain selective amplifier having a square law meter calibration. At low level of 
 microwave power, the response of each detector approximate to square law characteristics and may be used with a high gain selective amplifier having a square law meter calibration.
 
+
 **9. VSWR Meter:**
 
 The SWR meter or VSWR (voltage standing wave ratio) meter measures the standing wave ratio in a transmission line. The meter can be used to  
@@ -140,29 +148,37 @@ A parabolic antenna is an antenna that uses a parabolic reflector, a surface wit
 
 With the advent of TVRO and DBS satellite television dishes, parabolic antennas  have become a ubiquitous feature of the modern landscape, not only in rural locales  where CATV and terrestrial signals were limited or non-existent, but also in urban and  suburban regions, where the aforementioned services compete with CATV and broadcast  media. Extensive terrestrial microwave links, such as those between cell phone base  stations, and wireless WAN/LAN applications have also proliferated this antenna type. Earlier applications included ground-based and airborne radar and radio astronomy. Although the term dish antenna is often used for a parabolic antenna, it can  connote a spherical antenna as well, which has a portion of spherical surface as the reflector shape.
 
+
 **TYPES OF PARABOLIC DISH:**
 
+
 Parabolic antennas are distinguished by their shapes: 
+
 
 **Cylindrical -** 
 
 The reflector is curved in only one direction and flat in the other.  The radio waves come to a focus not at a point but along a line. The feed is often a dipole  antenna located along the focal line. It radiates a fan-shaped beam, narrow in the curved dimension, and wide in the uncurved dimension. The curved ends of the reflector are sometimes capped by flat plates, to prevent radiation out the ends, and this is called a pillbox antenna. 
 
+
 **Orange Peel -** 
 
 Another type is very long and narrow, shaped like the letter "C". This is called an orange peel design, and radiates an even wider fan beam. It is often used  for radar antennas. 
+
 
 **Paraboloidal or Dish -** 
 
 The reflector is shaped like a paraboloid. This is the mostcommon type. It radiates a narrow pencil-shaped beam along the axis of the dish. 
 
+
 **Shrouded Dish -** 
 
 Sometimes a cylindrical metal shield is attached to the rim of  the dish. The shroud shields the antenna from radiation from angles outside the main  beam axis, reducing the side lobes. It is sometimes used to prevent interference in terrestrial microwave links, where several antennas using the same frequency are located  close together. The shroud is coated inside with microwave absorbent material. Shrouds  can reduce back lobe radiation by 10 dB. They are also classified by the type of feed; how the radio waves are supplied to the antenna.
 
+
 **Axial or Front Feed -** 
 
 This is the most common type of feed, with the feed antenna located  in front of the dish at the focus, on the beam axis. A disadvantage of this type is that the feed and its  supports block some of the beam, which limits the apertureefficiency to only 55 - 60%. 
+
 
 **Offset or Off-Axis Feed -**
 
@@ -177,14 +193,17 @@ Figure (right) shows the main types of  parabolic antenna feeds.
 **Cassegrain -** 
 
 In a Cassegrain antenna the feed is located on or behind the dish, and radiates forward, illuminating a convex hyperboloidalsecondary reflector at the  focus ofthe dish. The radio waves from the feed reflect back off the secondary reflector  to the dish, which forms the main beam. An advantage of this configuration is that the  feed, with its waveguides and "front end" electronics does not have to be suspended in frontof the dish, so it is used for antennas with complicated or bulky feeds, such as large satellite communication antennas and radio telescopes. Aperture efficiency is on the order of 65 - 70%.
+
  
 **Gregorian -** 
 
 Similar to the Cassegrain design except that the secondary  reflector is concave, (ellipsoidal) in shape. Aperture efficiency over 70% can be achieved. 
 
+
 **Gain:**
 
 The directive qualities of an antenna are measured by a dimensionless  parameter called its gain, which is the ratio of the power received by the antenna from a  source along its beam axis to the power received by a hypothetical isotropic antenna.  The gain of a parabolic antenna is: Where,  A is the area of the antenna aperture, that is, the mouth of the parabolic reflector d is the diameter of the parabolic reflector λ is the wavelength of the radio waves. eA is a dimensionless parameter called the aperture efficiency. The aperture  efficiencyof typical parabolic antennas is 0.55 to 0.60. 
+
 
 **11. Magic Tee:**    
 
@@ -232,6 +251,7 @@ These adapters consist of a short section of waveguide with aprobe transition co
 4. Facilities provided and limitations of the equipment if any. 
 5. Know initial settings of controls of the equipments before switching on the supply.
 6. Precautions to be taken while carrying out the measurements. 
+
 
 **Conclusions:**
 
