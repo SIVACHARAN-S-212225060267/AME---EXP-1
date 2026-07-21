@@ -216,6 +216,10 @@ In E Plane Tee the junction of the auxiliary arm is made on the broad wall of th
 
 These are used for terminating the waveguide systems operating at low average power and are designed to absorball the applied power assuring low SWR. Where a matched load is required as in the measurement of reflection, discontinuities of obstacle in waveguide systems, these components are used. These are also employed as a precise reference loads with tee junctions, directional couplers etc.
 
+
+<img width="335" height="319" alt="image" src="https://github.com/user-attachments/assets/50344745-6bf5-4629-a40c-2758dd7052d7" />
+
+
 **14. W/g Coaxial Adaptor:**    
 
 These adapters consist of a short section of waveguide with aprobe transition coax mounted on broad wall. It transforms waveguides impedance into coaxial impedance. Power can be transmitted in either direction. Each adaptor covers 50% of the waveguide band.
